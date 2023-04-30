@@ -14,4 +14,4 @@ Team members:
 ### Installation
 Download the Python files including the visuals.
 ### Program Execution
-Run the website on any IDLE such as Visual Studio Code.
+Run the code on any IDLE such as PyCharm.
